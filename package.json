@@ -23,7 +23,9 @@
   "homepage": "https://github.com/amslv/nodejs-express-mongodb-sample#readme",
   "dependencies": {
     "body-parser": "^1.17.2",
+    "crypto": "0.0.3",
     "express": "^4.15.3",
+    "mongoose": "^4.11.4",
     "morgan": "^1.8.2"
   }
 }
